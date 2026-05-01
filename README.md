@@ -41,10 +41,10 @@ He currently serves as Editor-in-Chief of:
 
 - Artificial Intelligence in the Global South
 - Blockchain for the People
-- [Add more books here]
+- Quantum Computing at Large
 
 ---
 
 ## Contact
 
-Email: [Your Professional Email]
+Email: email@hakik.org
