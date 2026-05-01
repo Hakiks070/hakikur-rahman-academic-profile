@@ -30,10 +30,10 @@ He currently serves as Editor-in-Chief of:
 
 ## Academic Profiles
 
-- ORCID:
-- Google Scholar:
-- LinkedIn:
-- ResearchGate:
+- ORCID: https://orcid.org/0000-0002-2132-1298
+- Google Scholar: https://scholar.google.com/citations?user=n1sq_wcAAAAJ
+- LinkedIn: https://www.linkedin.com/in/hakikur-rahman-b333011
+- ResearchGate: https://www.researchgate.net/profile/Hakikur-Rahman
 
 ---
 
